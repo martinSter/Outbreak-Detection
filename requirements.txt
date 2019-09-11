@@ -1,6 +1,5 @@
 numpy==1.16.*
 pandas==0.24.*
-python-igraph==0.7.1.post6
 networkx==2.2
 matplotlib==3.0.*
 tqdm==4.32.*
